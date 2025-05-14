@@ -1,0 +1,17 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+venv/
+*.env
+.env
+
+# Data and Models (if large and not tracked)
+# data/*.json
+# models/*.pth
+# submissions/*.json
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
