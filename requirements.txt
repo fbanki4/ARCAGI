@@ -1,0 +1,5 @@
+torch>=1.8.0 # Or a more recent version, specify if GPU needed e.g., torch>=1.8.0+cu111
+numpy>=1.19.0
+tqdm>=4.50.0
+# einops # Only if you re-introduce it and use it
+# torchvision # Often installed with torch, but good to list if used for transforms (not directly used here)
